@@ -1,0 +1,7 @@
+node_modules
+
+backend/.vscode
+frontend/.vscode
+
+backend/variables.env
+backend/prisma.yml
